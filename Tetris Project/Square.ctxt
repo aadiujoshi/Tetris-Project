@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Square
+comment1.params=ID
+comment1.target=Square(int)
+comment2.params=
+comment2.target=javax.swing.JLabel\ getSquareAsLabel()
+comment3.params=
+comment3.target=int\ getColorID()
+comment4.params=
+comment4.target=boolean\ isActive()
+comment5.params=b
+comment5.target=void\ setActive(boolean)
+numComments=6

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Block
+comment1.params=BlockID
+comment1.target=Block(int)
+comment2.params=
+comment2.target=Square[][]\ getBlockArray()
+comment3.params=
+comment3.target=Square[][]\ getRotatedBlock()
+numComments=4
